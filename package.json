@@ -1,0 +1,30 @@
+{
+  "name": "alexa-skill-weather-report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agniswarm/Alexa-Skill-Weather-Report.git"
+  },
+  "keywords": [],
+  "author": "Agniswar Mandal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agniswarm/Alexa-Skill-Weather-Report/issues"
+  },
+  "homepage": "https://github.com/agniswarm/Alexa-Skill-Weather-Report#readme",
+  "dependencies": {
+    "ask-sdk": "^2.3.0",
+    "express": "^4.16.4",
+    "lambda-local": "^1.5.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.9",
+    "@types/request": "^2.48.1"
+  }
+}
